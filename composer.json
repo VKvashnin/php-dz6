@@ -1,0 +1,17 @@
+{
+    "name": "root/pdo",
+    "authors": [
+        {
+            "name": "qwe",
+            "email": "qwe@gmail.com"
+        }
+    ],
+    "require": {
+
+    },
+    "autoload": {
+        "psr-4": {
+            "Academy\\": "src/"
+        }
+    }
+}
